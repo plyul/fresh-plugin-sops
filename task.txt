@@ -1,0 +1,4 @@
+Задача: написать плагин для Fresh
+
+Документация по плагинам: https://getfresh.dev/docs/plugins/development/
+Референс: https://github.com/signageos/vscode-sops

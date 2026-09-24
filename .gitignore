@@ -1,0 +1,2 @@
+# Copied from the local Fresh install by `deno task types`; only needed for type checking.
+types/

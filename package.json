@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/sinelaw/fresh/main/crates/fresh-editor/plugins/schemas/package.schema.json",
+  "name": "sops",
+  "version": "0.1.0",
+  "description": "Edit SOPS-encrypted files in place: decrypted in memory on open, re-encrypted on save",
+  "type": "plugin",
+  "author": "Pavel Lyulchenko",
+  "license": "MIT",
+  "keywords": [
+    "sops",
+    "secrets",
+    "encryption",
+    "age",
+    "pgp",
+    "kms"
+  ],
+  "fresh": {
+    "min_version": "0.5.1",
+    "entry": "sops.ts"
+  }
+}
